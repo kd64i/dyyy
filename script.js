@@ -61,7 +61,7 @@
             
             try {
                 // 调用后端API
-                const response = await fetch('https://jn12.top/parse.php', {
+                const response = await fetch('http://636366.xyz/parse.php', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/x-www-form-urlencoded',
